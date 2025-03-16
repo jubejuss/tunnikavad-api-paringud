@@ -76,8 +76,8 @@ Seminari lõpus loome kiirelt ka lahenduse, mis võimaldab taaskasutada `header`
 ## Kodutöö  
 ### Üldine
 - Uued tudengipaarid (code review) failis [studen_pairs.md](student_pairs.md)
-- Koduse töö ajakulu tuleb ära mõõta. Mõistlik on kasutada mõnda ajaarvestustarkvara (nt Toggle), kuid võib ka niisama kella järgi kirja panna.
-- Koduse töö protsessi kohta tuleb koostada refleksiooni faili `03_homework/protsess.md`. Nii nagu eelmisel aastalgi, lisage sinna mured ja rõõmud, mis tööd tehes ette tulid. Samuti nipid, kui midagi avastasite ja ettepanekud mulle, kuidas ja mida ja paremini veel rääkida.
+- Koduse töö ajakulu tuleb ära mõõta. Selleks kasutage mõnda ajaarvestustarkvara (nt Toggle).
+- Koduse töö protsessi kohta tuleb koostada refleksiooni faili `03_homework/protsess.md`. Kirjeldage töö laabumise protsessi, lisage sinna mured ja rõõmud, mis tööd tehes ette tulid. Samuti nipid, kui midagi avastasite ja ettepanekud mulle, kuidas ja mida ja paremini veel rääkida.
 
 ### CV-rakendusele tuleb lisada:
 - rakendus peab asuma repositooriumi juurkataloogis, mitte 03_homework vms kaustas, nii, et iga kord uuendate sama rakendust.    
