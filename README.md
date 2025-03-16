@@ -89,11 +89,12 @@ Seminari lõpus loome kiirelt ka lahenduse, mis võimaldab taaskasutada `header`
 – NB! Tööd peavd olema üles laetud git'i kaudu, ükskõik kas terminali või Github Desktoppi kasutades, veebi kaudu üleslaetud töid ei arvesta.
 
 ### Kuidas teha koodi ülevaatust?
-Te võite kasutada mõnda LLM-i, aga te peate aru saama, mida see soovitab. Kui te tehisaru abil soovitate muudatusi, millest te ise aru ei saa, võib juhtuda, et osutate karuteene kaastudengile. Soovitage vaid seda, millest aru saate. Kui aru ei saa, siis tehke asi endale selgeks või jätke soovitamata.  
+Te võite kasutada LLM-i, Selleks tuleb anda LLM-ile ette ülesande sisu, mis tuleks puhastada ebavajalikust. 
+Oluline on aga, et te peate aru saama, mida LLM teile soovitab. Väga tuhti võib ta soovitada lahendusi, mis on õiged, aga vananenud, õiged, aga liiga keerulised, õiged, aga kaasõppijale arusaamatud, kuid ka lihtsalt valed. Kui te tehisaru abil soovitate muudatusi, millest te ise aru ei saa, võib juhtuda, et osutate karuteene kaastudengile. Soovitage vaid seda, millest aru saate. Kui aru ei saa, siis tehke asi endale selgeks või jätke soovitamata.  
 Sama kehtib ka enda töö kontrollimisega.
 
 
-Kodutööd tehke nii kaua kui teete, kui kõike ei jõua valmis, siis pole hullu, pange kirja, mis valmistus rakusi (kui valmistas), miks miski pooleli jäi vms. Ajaarvestus annab teile endale ettekujutuse, kui pikalt te tegelikult tööd teete. Tulevikus läheb seda vaja.
+Kodutööd tehke nii kaua kui teete, kui kõike ei jõua valmis, siis pole hullu, pange kirja, mis valmistus raskusi (kui valmistas), miks miski pooleli jäi vms. Ajaarvestus annab teile endale ettekujutuse, kui pikalt te tegelikult tööd teete. Tulevikus läheb seda vaja.
 
 # Hindamismaatriks kodutööle: CV-rakenduse täiendamine
 
